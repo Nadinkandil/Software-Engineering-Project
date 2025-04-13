@@ -35,3 +35,11 @@ CodeTrack is coding learning platform that aims to develop a user-friendly and c
 
 The goal is to make coding learning accessible, enjoyable, and effective, keeping learners motivated and on track to achieve their goals.
 
+
+## 🧑‍💻 Team Members
+- Nadin Kandil
+- Youssif Alashry
+- Omar Badr
+- Yomna Rabea
+  
+
