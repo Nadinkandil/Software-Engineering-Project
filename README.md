@@ -19,7 +19,7 @@ This project was developed as part of our Software Engineering coursework, focus
 - User Interface
 
 ## 🔗 External Resources
-- 📄[Project Documentation]((https://drive.google.com/file/d/1CSCfj0KFOKs-wJCdsZxvGMqLjBpEQm2Z/view?usp=drive_link))
+- 📄[Project Documentation](https://drive.google.com/file/d/1CSCfj0KFOKs-wJCdsZxvGMqLjBpEQm2Z/view?usp=drive_link)
 - 🎨[Figma Prototype](https://www.figma.com/proto/yf98LnliL9lUQNZTAPxymo/CodeTrack-UI?node-id=2-104&p=f&t=3fk2WsNBLGvFdPvs-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A104)
 
 
